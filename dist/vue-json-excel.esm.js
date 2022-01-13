@@ -228,10 +228,12 @@ var script = {
     //event before generate was called
     beforeGenerate: {
       type: Function,
+      default: () => {}
     },
     //event before download pops up
     beforeFinish: {
       type: Function,
+      default: () => {}
     },
     // Determine if CSV Data should be escaped
     escapeCsv: {
