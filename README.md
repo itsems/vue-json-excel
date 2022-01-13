@@ -318,4 +318,4 @@ MIT
 
 #### Status
 
-This project is in an early stage of development. Any contribution is welcome :D
+Forked from [jecovier/vue-json-excel](https://github.com/jecovier/vue-json-excel), only add default empty function content in beforeGenerate & beforeFinish props function.
