@@ -25,7 +25,7 @@
     "download",
     "component"
   ],
-  "author": "Jose Javier Espinoza",
+  "author": "Jose Javier Espinoza, itsems",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jecovier/vue-json-excel/issues"
